@@ -1,0 +1,42 @@
+body{
+  background-color:#F7F7F9;
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.heading{
+  display: flex;
+  flex-direction: column;
+  margin: 40px;
+}
+
+.heading_1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 42px;
+/* or 105% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15px;
+
+color: #000000;
+}
+
+.heading_2{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 42px;
+/* or 175% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.15px;
+
+color: #000000;
+}

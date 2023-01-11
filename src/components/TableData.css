@@ -1,0 +1,63 @@
+.tableButton{
+    width: 213px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #481380;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.table_box{
+    
+    width: 220px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-bottom: 1px solid rgba(76, 78, 100, 0.68);
+    color: rgba(76, 78, 100, 0.68);
+    margin-left: 8px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.search_Icon{
+    color: rgba(76, 78, 100, 0.54);
+}
+
+.table_head{
+    background-color:  #F5F5F5;
+}
+
+.row-Styling{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.15px;
+color: rgba(76, 78, 100, 0.87);
+}
+
+
+.date_sort{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sorting-icon{
+    margin-left: 30px;
+}
+
